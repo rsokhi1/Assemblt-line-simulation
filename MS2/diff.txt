@@ -1,0 +1,14 @@
+In line number 78 of your output:
+The output should be:
+[000000] Office Chair                     - TO BE FILLED
+^
+But your output is: 
+00000[0] Office Chair                     - TO BE FILLED
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [[] ASCII code(91)
+but you printed
+  [0] ASCII code(48)
+

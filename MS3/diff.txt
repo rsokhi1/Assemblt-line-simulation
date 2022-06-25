@@ -1,0 +1,14 @@
+In line number 127 of your output:
+The output should be:
+    Filled Chris S., Bedroom [Dresser]
+           ^
+But your output is: 
+    Filled John M., Kids Bedroom [Bed]
+           ^
+
+Unmatched character details:
+The character in column 12 is supposed to be:
+  [C] ASCII code(67)
+but you printed
+  [J] ASCII code(74)
+

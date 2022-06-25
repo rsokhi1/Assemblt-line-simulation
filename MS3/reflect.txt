@@ -1,0 +1,10 @@
+// Name: Rajbeer Sokhi
+// Seneca Student ID: 124969205 
+// Seneca email: rsokhi1@myseneca.ca
+// Date of completion: 12/04/2022
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+
+This assignment was really challenging and was fun to go through such difficult assignment and figuring out everything. Also, I want to thank you for teaching this course so well. I got to learn so much about c++ from this course.
